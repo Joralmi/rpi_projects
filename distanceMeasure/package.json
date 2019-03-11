@@ -1,0 +1,16 @@
+{
+  "name": "distacemeasure",
+  "version": "1.0.0",
+  "description": "distance rpi",
+  "main": "app.js",
+  "scripts": {
+    "start": "sudo node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Almela",
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "^1.2.0",
+    "pigpio": "^0.6.4"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dht11",
+  "version": "1.0.0",
+  "description": "dht11 sensor reader",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dht11",
+    "rpi"
+  ],
+  "author": "Jorge Almela",
+  "license": "MIT",
+  "dependencies": {
+    "node-dht-sensor": "0.0.34"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "blinkapp",
+  "version": "1.0.0",
+  "description": "Led blink rpi app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Almela",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "onoff": "^1.2.0"
+  }
+}
